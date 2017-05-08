@@ -1,0 +1,19 @@
+{
+  "name": "text-table-formatter",
+  "version": "0.1.0",
+  "description": "Produces a string which contains a multi-lined table, suitable for printing!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bodawei/text-table-formatter.git"
+  },
+  "author": "柏大衛",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bodawei/text-table-formatter/issues"
+  },
+  "homepage": "https://github.com/bodawei/text-table-formatter#readme"
+}
